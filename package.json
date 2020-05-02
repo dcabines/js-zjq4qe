@@ -1,0 +1,8 @@
+{
+  "name": "js-zjq4qe",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "lit-html": "^1.2.1"
+  }
+}
